@@ -1,0 +1,9 @@
+Package: com.gmoran.launchnotifier
+Name: LaunchNotifier
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iPhone says "Application Launched" when app is launched
+Maintainer: Guillermo Moran (Fr0st)
+Author: Guillermo Moran (Fr0st)
+Section: Tweaks
